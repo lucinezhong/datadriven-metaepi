@@ -6,6 +6,6 @@
   <em>data-driven metapopulation models</em> used in infectious disease epidemiology.
 </p>
 
-<hr>
+<h2>📚 Prameter Estimation</h2>
 
 
