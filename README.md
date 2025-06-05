@@ -2,8 +2,7 @@
 <h1>Data-Driven Metapopulation Modeling for Infectious Diseases</h1>
 
 <p>
-  This repository is a curated and evolving collection of literature, methods, and tools focused on 
-  <em>data-driven metapopulation models</em> used in infectious disease epidemiology.
+  This repository contains a curated collection of literature, methodologies, and tools focused on <em>data-driven metapopulation models</em> for adaptive forecasting and surveillance of infectious disease spread.
 </p>
 
 <h2>📚 Prameter Estimation</h2>
