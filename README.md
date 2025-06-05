@@ -9,3 +9,7 @@
 <h2>📚 Prameter Estimation</h2>
 
 
+
+<h2>📚 Hybird Models</h2>
+
+
