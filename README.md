@@ -16,8 +16,9 @@
 
 <h2> Neural Network Models</h2>
 <h3>•GLEAM-AI</h3>
+<ul>
  <li> Zahedi, M., Wu, D., Davis, J. T., Ma, Y., Vespignani, A., Yu, R., & Chinazzi, M. GLEAM-AI: Neural Surrogate for Accelerated Epidemic Analytics and Forecasting. In NeurIPS 2024 Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. </li>
-
+</ul>
 <h2> Hybird Models</h2>
 
 
