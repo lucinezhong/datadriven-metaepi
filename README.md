@@ -5,12 +5,13 @@
   This repository contains a curated collection of literature, methodologies, and tools focused on <strong> data-driven metapopulation models </strong> for <strong> adaptive </strong> forecasting and surveillance of infectious disease spread.
 </p>
 
-<h2>Prameter Estimation</h2>
-  <h3> \DOT Ensemble Kalman filter<h3>
-      [1] Pei, S., Yamana, T. K., Kandula, S., Galanti, M., & Shaman, J. (2021). Burden and characteristics of COVID-19 in the United States during 2020. Nature, 598(7880), 338-341
-      [2] Lal, R., Huang, W., & Li, Z. (2021). An application of the ensemble Kalman filter in epidemiological modelling. Plos one, 16(8), e0256227.
-  
-
+<h2>Parameter Estimation</h2>
+<h3>• Ensemble Kalman Filter</h3>
+<ul>
+  <li> Pei, S., Yamana, T. K., Kandula, S., Galanti, M., & Shaman, J. (2021). Burden and characteristics of COVID-19 in the United States during 2020. Nature, 598(7880), 338–341 </li>
+  <li> Lal, R., Huang, W., & Li, Z. (2021). An application of the ensemble Kalman filter in epidemiological modelling.PLoS ONE, 16(8), e0256227.
+  </li>
+</ul>
 
 
 <h2> Neural Network Models</h2>
