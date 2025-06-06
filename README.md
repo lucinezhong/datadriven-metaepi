@@ -10,8 +10,6 @@
 <h3>POI-Metapopulation Model<h3>
 
 
-<h3>• Ensemble Kalman Filter</h3>
-
 <h2>Parameter Estimation</h2>
 <h3>• Ensemble Kalman Filter</h3>
 <ul>
