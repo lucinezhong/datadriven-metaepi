@@ -14,7 +14,7 @@
 </ul>
 
 <h2> Neural Network Models</h2>
-****Neural Network Models can be used for parameter estimation in metapopulation model, and also can be used
+****Neural Network Models can be used for parameter estimation in the metapopulation model, and also can be directly used in forecasting
 <ul>
  <li> Zahedi, M., Wu, D., Davis, J. T., Ma, Y., Vespignani, A., Yu, R., & Chinazzi, M. GLEAM-AI: Neural Surrogate for Accelerated Epidemic Analytics and Forecasting. In NeurIPS 2024 Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. </li>
    <li> Liu, Z., Wan, G., Prakash, B. A., Lau, M. S., & Jin, W. (2024, August). A review of graph neural networks in epidemic modeling. In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 6577-6587).</li>
