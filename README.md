@@ -4,6 +4,13 @@
 <p>
   This repository contains a curated collection of literature, methodologies, and tools focused on <strong> data-driven metapopulation models </strong> for <strong> adaptive </strong> forecasting and surveillance of infectious disease spread.
 </p>
+<h2>Metapopulation Models</h2>
+<h3>SIR Metapopulation Models</h3>
+
+<h3>POI-Metapopulation Model<h3>
+
+
+<h3>• Ensemble Kalman Filter</h3>
 
 <h2>Parameter Estimation</h2>
 <h3>• Ensemble Kalman Filter</h3>
