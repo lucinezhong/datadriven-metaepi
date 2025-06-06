@@ -23,6 +23,7 @@
 <ul>
  <li> Zahedi, M., Wu, D., Davis, J. T., Ma, Y., Vespignani, A., Yu, R., & Chinazzi, M. GLEAM-AI: Neural Surrogate for Accelerated Epidemic Analytics and Forecasting. In NeurIPS 2024 Workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers. </li>
    <li> Liu, Z., Wan, G., Prakash, B. A., Lau, M. S., & Jin, W. (2024, August). A review of graph neural networks in epidemic modeling. In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 6577-6587).</li>
+ <li> Niraula, P., Mateu, J., & Chaudhuri, S. (2022). A Bayesian machine learning approach for spatio-temporal prediction of COVID-19 cases. Stochastic Environmental Research and Risk Assessment, 36(8), 2265-2283.</li>
 </ul>
 <h2> Hybird Models</h2>
 
