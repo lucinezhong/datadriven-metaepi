@@ -12,6 +12,7 @@
   <li> Lal, R., Huang, W., & Li, Z. (2021). An application of the ensemble Kalman filter in epidemiological modelling.PLoS ONE, 16(8), e0256227.
   </li>
 </ul>
+<h3> Neural Network Models for parameter estimation </h3>
 
 
 <h2> Neural Network Models</h2>
